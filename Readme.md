@@ -229,6 +229,18 @@ This will interpolate the format string with the value of methods `name.lastName
   * directoryPath
   * filePath
   * semver
+* football
+  * team
+  * competition
+  * venue
+* rugbyLeague
+  * team
+  * competition
+  * venue
+* rugbyUnion
+  * team
+  * competition
+  * venue
 
 
 ## Localization
